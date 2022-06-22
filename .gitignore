@@ -3,3 +3,4 @@ __pycache__
 .vscode
 icd_full.csv
 .~lock*
+.pytest_cache

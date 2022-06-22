@@ -1,0 +1,8 @@
+README.md
+setup.py
+normalization.egg-info/PKG-INFO
+normalization.egg-info/SOURCES.txt
+normalization.egg-info/dependency_links.txt
+normalization.egg-info/not-zip-safe
+normalization.egg-info/requires.txt
+normalization.egg-info/top_level.txt

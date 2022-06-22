@@ -1,3 +1,10 @@
+Metadata-Version: 2.1
+Name: normalization
+Version: 1.0.0
+Summary: Medical Concepts Normalization
+License: UNKNOWN
+Platform: UNKNOWN
+
 # Medical Concept Normalization
 
 ## Challenges:
@@ -16,4 +23,5 @@ Related paper: https://aclanthology.org/P19-2055/
 
 ### Statistical modelling
 
-Tf-idf-like approach, but on top of BPE encodings from large model or compound noun splitting.
+Tf-idf-like approach, but on top of BPE encodings from large model
+
